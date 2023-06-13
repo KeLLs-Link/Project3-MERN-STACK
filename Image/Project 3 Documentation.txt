@@ -1,0 +1,90 @@
+PROJECT 3: SIMPLE TO-DO APPLICATION ON MERN WEB STACK
+Task:  To deploy a simple To-Do application that creates To-Do lists.
+
+
+Screenshot 1: Windows terminal (Windows PowerShell) was downloaded and isntalled from Microsoft store
+Screenshot 2: Material theme extension was installed on Visual studio code
+Screenshot 3: Git extension extension pack was installed
+screenshot 4: Bracket pair colorizer was installed in order to foster ease identification of code blocks in case of long codes
+Screenshot 5: Git was downloaded and installed
+Screenshot 6: Oppenssh server was installed using windows powershell run on elevated mode
+
+
+update Ubuntu: Code: sudo apt update 
+Upgrade Ubuntu: Code: sudo apt upgrade
+
+Screenshot 7: Installing Node.js- A JavaScript runtime environment. It is used to run JavaScript on a machine rather than in a browser.
+Code: sudo apt-get install -y nodejs - this code installs both node.js and npm (NPM is a package manager for node)
+Screenshot 8: A new directory for the Todo list project was created, project was initialised to create the 
+new file name package.json
+code: mkdir Todo
+code: npm init
+SCreenshot 9: package.json file succesfully created.
+screenshot 10: Express.js successfully installed and a file index.js was created
+code: npm install express
+code: touch index.js
+screenshot 12: server up sand and runnining. Inbound rule routed to port 5000
+code: node index.js
+screenshot 13: welcome to express.js
+screenshot 14: mongoose a Node.js package that makes working with mongodb easier succesfully installed in Todo directory.
+code:npm install mongoose
+screenshot 15: Model directory created, cd into model, Todo file created in the model directory
+code: mkdir models && cd models && touch todo.js (all three command above defined in a single line of code using the "&&" operator
+
+MongoDB Database: We need a database where we will store our data. For this, we will make use of mLab. mLab provides MongoDB database as a service solution (DBaaS), so to make life easy, you will need to sign up for shared clusters free account, which is ideal for our use case. Sign up here. Follow the signup process, select AWS as the cloud provider, and choose a region near you.
+Screenshot 14: MongoDB set to allow access from anywhere
+Screenshot 16: Postman API development client used to test our code without Frontend using RESTful API
+frontend creation: Using react to creat the frontend user interface of the To-do app for a Web client (browser) to interact with the application via API. To start out with the frontend of the To-do app, we will use the create-react-app command to scaffold our app.
+code: npx create-react-app client
+Screenshot 17: Database connected succesfully
+Screnshot 18: POST request
+Screenshot 19: GET request
+FRONTEND CREATION (React)
+code: npx create-react-app client
+installing concurrently
+code: npm install concurrently --save-dev
+installing nodemon
+code:npm install nodemon --save-dev
+Screenshot 20: React Logo
+Screecnshot 21: Proxy line in package.json
+Screenshot 22: Tod App up and running
+
+
+
+
+
+
+
+
+MongoDb: kellsdan96@gmail.com pw: Encrypts@1994
+
+DB= mongodb+srv://kellsdan96:%40%5FEncrypts1994
+@cluster0.dnpejtz.mongodb.net/?retryWrites=true&w=majority
+
+DB = 'mongodb+srv://kellsdan96:%40%5FEncrypts1994
+@cluster0.dnpejtz.mongodb.net/?retryWrites=true&w=majority'
+
+DB = 'mongodb+srv://kellsdan96:5ocdGVS8oSF1bY3T
+@cluster0.dnpejtz.mongodb.net/?retryWrites=true&w=majority'
+
+
+username: kellsdan96 Pw:5ocdGVS8oSF1bY3T
+IP address: 105.112.210.121/32
+Description: My IP Address
+
+
+Database name
+mydatabase
+Collection name
+database
+
+Postman: 
+Kells96@gmail.com
+@_Encrypts1994    
+kells96
+invite link for collaboration: https://app.getpostman.com/join-team?invite_code=4906fe56e0825e79550eea151e5dccde
+
+
+
+
+
