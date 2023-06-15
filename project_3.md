@@ -10,10 +10,6 @@ screenshot 4: Bracket pair colorizer was installed in order to foster ease ident
 ![Screenshot 5](./Image/Screenshot%205.jpg)
 Git was downloaded and installed
 ***
-***
-![Screenshot 6]( ./Image/Screenshot%206.jpg) 
-Oppenssh server was installed using windows powershell run on elevated mode
-***
 
 update Ubuntu: Code: sudo apt update 
 Upgrade Ubuntu: Code: sudo apt upgrade
