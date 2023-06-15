@@ -13,7 +13,10 @@ Node.js: A JavaScript runtime environment. It is used to run JavaScript on a mac
 Git was downloaded and installed
 ***
 
-update Ubuntu: Code: sudo apt update 
+update Ubuntu: 
+```
+Code: sudo apt update 
+```
 Upgrade Ubuntu: Code: sudo apt upgrade
 
 Screenshot 7: Installing Node.js- A JavaScript runtime environment. It is used to run JavaScript on a machine rather than in a browser.
