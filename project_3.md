@@ -1,11 +1,6 @@
 # PROJECT 3: SIMPLE TO-DO  APPLICATION ON MERN WEB STACK
 ## Task:  To deploy a simple To-Do application that creates To-Do lists.
 
-
-Screenshot 1: Windows terminal (Windows PowerShell) was downloaded and isntalled from Microsoft store
-Screenshot 2: Material theme extension was installed on Visual studio code
-Screenshot 3: Git extension extension pack was installed
-screenshot 4: Bracket pair colorizer was installed in order to foster ease identification of code blocks in case of long codes
 ***
 ![Screenshot 5](./Image/Screenshot%205.jpg)
 Git was downloaded and installed
