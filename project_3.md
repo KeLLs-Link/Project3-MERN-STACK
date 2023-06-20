@@ -74,9 +74,14 @@ code: mkdir models && cd models && touch todo.js
 ```
 All three commands above defined in a single line of code using the "&&" operator
 ***
-MongoDB Database: We need a database where we will store our data. For this, we will make use of mLab. mLab provides MongoDB database as a service solution (DBaaS), so to make life easy, you will need to sign up for shared clusters free account, which is ideal for our use case. Sign up here. Follow the signup process, select AWS as the cloud provider, and choose a region near you.
-Screenshot 14: MongoDB set to allow access from anywhere
-Screenshot 16: Postman API development client used to test our code without Frontend using RESTful API
+
+Postman API development client used to test our code without Frontend using RESTful API
+
+![Screenshot 16](./Image/Screenshot%2016.png) 
+
+***
+
+
 frontend creation: Using react to creat the frontend user interface of the To-do app for a Web client (browser) to interact with the application via API. To start out with the frontend of the To-do app, we will use the create-react-app command to scaffold our app.
 code: npx create-react-app client
 Screenshot 17: Database connected succesfully
