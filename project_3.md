@@ -24,7 +24,7 @@ this code installs both node.js and npm (NPM is a package manager for node)
 ***
 
  A new directory for the Todo list project was created, project was initialised to create the 
-![screenshot 8](./Image/Screenshot%208.1.jpg)
+![screenshot 8](./Image/Screenshot%208.jpg)
 ```
 code: mkdir Todo
 ```
