@@ -35,9 +35,15 @@ Next, you will use the command npm init to initialise your project, so that a ne
 code: npm init
 ```
 ***
-screenshot 10: Express.js successfully installed and a file index.js was created
+INSTALL EXPRESSJS
+
+Remember that Express is a framework for Node.js, therefore a lot of things developers would have programmed is already taken care of out of the box. Therefore, it simplifies development, and abstracts a lot of low-level details. For example, Express helps to define routes of your application based on HTTP methods and URLs.
+
+![screenshot 10](./Image/Screenshot%2010.jpg)
+```
 code: npm install express
 code: touch index.js
+```
 screenshot 12: server up sand and runnining. Inbound rule routed to port 5000
 code: node index.js
 screenshot 13: welcome to express.js
