@@ -45,12 +45,13 @@ code: npm install express
 code: touch index.js
 ```
 ***
-Now it is time to start our server to see if it works. If everything goes well, you should see Server running on port 5000 in your terminal.
+Now it is time to start our server to see if it works. If everything goes well, you should see Server running on port 5000 in your terminal. Inbound rule routed to port 5000.
 ![screenshot 12:](./Image/Screenshot%2012.png) 
-Server up sand and runnining. Inbound rule routed to port 5000
+
 ```
 code: node index.js
 ```
+***
 screenshot 13: welcome to express.js
 screenshot 14: mongoose a Node.js package that makes working with mongodb easier succesfully installed in Todo directory.
 code:npm install mongoose
