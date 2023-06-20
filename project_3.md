@@ -123,9 +123,10 @@ React Logo
 
 ![Screenshot 20:](./Image/Screenshot%2020.png) 
 
+Proxy line in package.json
+
 ![Screecnshot 21:](./Image/Screenshot%2021.png) 
 
-Proxy line in package.json
 ***
 Congratulations
 In this Project #3 you have made a simple To-Do and deployed it to MERN stack. You wrote a frontend application using React.js that communicates with a backend application written using Expressjs. You also created a MongoDB backend for storing tasks in a database.
