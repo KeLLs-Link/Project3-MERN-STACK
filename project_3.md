@@ -54,9 +54,16 @@ code: node index.js
 ```
 ![screenshot 13:](./Image/Screenshot%2013.png)
 ***
-screenshot 13: welcome to express.js
-screenshot 14: mongoose a Node.js package that makes working with mongodb easier succesfully installed in Todo directory.
+MONGODB DATABASE
+We need a database where we will store our data. For this we will make use of mLab. mLab provides MongoDB database as a service solution (DBaaS), so to make life easy, you will need to sign up for a shared clusters free account, which is ideal for our use case. Sign up here. Follow the sign up process, select AWS as the cloud provider, and choose a region near you.
+
+![screenshot 14](./Image/Screenshot%2015.png)
+
+ Mongoose a Node.js package that makes working with mongodb easier succesfully installed in Todo directory.
+```
 code:npm install mongoose
+```
+***
 screenshot 15: Model directory created, cd into model, Todo file created in the model directory
 code: mkdir models && cd models && touch todo.js (all three command above defined in a single line of code using the "&&" operator
 
