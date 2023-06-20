@@ -63,10 +63,16 @@ We need a database where we will store our data. For this we will make use of mL
 ```
 code:npm install mongoose
 ```
-***
-screenshot 15: Model directory created, cd into model, Todo file created in the model directory
-code: mkdir models && cd models && touch todo.js (all three command above defined in a single line of code using the "&&" operator
 
+![screnshot 15](./Image/Screenshot%2015.png)
+
+Model directory created, cd into model, Todo file created in the model directory
+
+```
+code: mkdir models && cd models && touch todo.js 
+```
+All three commands above defined in a single line of code using the "&&" operator
+***
 MongoDB Database: We need a database where we will store our data. For this, we will make use of mLab. mLab provides MongoDB database as a service solution (DBaaS), so to make life easy, you will need to sign up for shared clusters free account, which is ideal for our use case. Sign up here. Follow the signup process, select AWS as the cloud provider, and choose a region near you.
 Screenshot 14: MongoDB set to allow access from anywhere
 Screenshot 16: Postman API development client used to test our code without Frontend using RESTful API
