@@ -29,8 +29,12 @@ this code installs both node.js and npm (NPM is a package manager for node)
 code: mkdir Todo
 ```
 ***
+Next, you will use the command npm init to initialise your project, so that a new file named package.json will be created. This file will normally contain information about your application and the dependencies that it needs to run
+![Screenshot](./Image/Screenshot%209.jpg)
+```
 code: npm init
-SCreenshot 9: package.json file succesfully created.
+```
+***
 screenshot 10: Express.js successfully installed and a file index.js was created
 code: npm install express
 code: touch index.js
