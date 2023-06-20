@@ -81,10 +81,16 @@ Postman API development client used to test our code without Frontend using REST
 
 ***
 
+Frontend Creation: Using react to create the frontend user interface of the To-do app for a Web client (browser) to interact with the application via API. To start out with the frontend of the To-do app, we will use the create-react-app command to scaffold our app.
 
-frontend creation: Using react to creat the frontend user interface of the To-do app for a Web client (browser) to interact with the application via API. To start out with the frontend of the To-do app, we will use the create-react-app command to scaffold our app.
+Database connected succesfully
+
+![Screenshot 17:](./Image/Screenshot%2017.png) 
+
+```
 code: npx create-react-app client
-Screenshot 17: Database connected succesfully
+```
+
 Screnshot 18: POST request
 Screenshot 19: GET request
 FRONTEND CREATION (React)
