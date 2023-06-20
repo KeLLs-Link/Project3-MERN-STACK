@@ -14,8 +14,6 @@ Update and Upgrade Ubuntu:
 Code: sudo apt update 
 code: sudo apt upgrade
 ```
-___
-Upgrade Ubuntu: Code: sudo apt upgrade
 ***
 Installing Node.js- A JavaScript runtime environment. It is used to run JavaScript on a machine rather than in a browser.
 ![screenshot 7](./Image/Screenshot%207.jpg)
@@ -24,8 +22,7 @@ Code:sudo apt-get install -y nodejs
 ```
 this code installs both node.js and npm (NPM is a package manager for node)
 ***
-Screenshot 7: 
-Code:  - 
+
 Screenshot 8: A new directory for the Todo list project was created, project was initialised to create the 
 new file name package.json
 code: mkdir Todo
