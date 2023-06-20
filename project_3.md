@@ -23,9 +23,12 @@ Code:sudo apt-get install -y nodejs
 this code installs both node.js and npm (NPM is a package manager for node)
 ***
 
-Screenshot 8: A new directory for the Todo list project was created, project was initialised to create the 
-new file name package.json
+ A new directory for the Todo list project was created, project was initialised to create the 
+![screenshot 8](./Image/Screenshot%208.1.jpg)
+```
 code: mkdir Todo
+```
+***
 code: npm init
 SCreenshot 9: package.json file succesfully created.
 screenshot 10: Express.js successfully installed and a file index.js was created
