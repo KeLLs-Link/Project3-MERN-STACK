@@ -101,10 +101,25 @@ GET request
 ![Screenshot 19:](./Image/Screenshot%2019.png) 
 
 ***
-installing concurrently
-code: npm install concurrently --save-dev
-installing nodemon
+FRONTEND CREATION
+Since we are done with the functionality we want from our backend and API, it is time to create a user interface for a Web client (browser) to interact with the application via API. To start out with the frontend of the To-do app, we will use the create-react-app command to scaffold our app.
+Running a React App
+Before testing the react app, there are some dependencies that need to be installed.
+In the same root directory as your backend code, which is the Todo directory, run the code below: 
+```
+npx create-react-app client
+```
+Installing Concurrently: This is used to run more than one command simultaneously from the same terminal window.
+
+```
+Code: npm install concurrently --save-dev
+```
+Installing nodemon: This is used to run and monitor the server. If there is any change in the server code, nodemon will restart it automatically and load the new changes.
+```
 code:npm install nodemon --save-dev
+```
+***
+
 Screenshot 20: React Logo
 Screecnshot 21: Proxy line in package.json
 Screenshot 22: Tod App up and running
