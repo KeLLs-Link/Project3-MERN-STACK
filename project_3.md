@@ -119,10 +119,9 @@ Installing nodemon: This is used to run and monitor the server. If there is any 
 code:npm install nodemon --save-dev
 ```
 ***
+React Logo
 
 ![Screenshot 20:](./Image/Screenshot%2020.png) 
-
-React Logo
 
 ![Screecnshot 21:](./Image/Screenshot%2021.png) 
 
