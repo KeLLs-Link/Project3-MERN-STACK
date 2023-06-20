@@ -63,8 +63,9 @@ We need a database where we will store our data. For this we will make use of mL
 ```
 code:npm install mongoose
 ```
+***
 
-![screnshot 15](./Image/Screenshot%2015.png)
+![screnshot 15](./Image/Screenshot%2015.jpg)
 
 Model directory created, cd into model, Todo file created in the model directory
 
