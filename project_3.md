@@ -9,16 +9,23 @@ ExpressJS: A server-side Web Application framework for Node.js.
 ReactJS: A frontend framework developed by Facebook. It is based on JavaScript, used to build User Interface (UI) components.
 Node.js: A JavaScript runtime environment. It is used to run JavaScript on a machine rather than in a browser.
 ***
-Update and upgrade Ubuntu: 
+Update and Upgrade Ubuntu: 
 ```
 Code: sudo apt update 
 code: sudo apt upgrade
 ```
 ___
 Upgrade Ubuntu: Code: sudo apt upgrade
-
-Screenshot 7: Installing Node.js- A JavaScript runtime environment. It is used to run JavaScript on a machine rather than in a browser.
-Code: sudo apt-get install -y nodejs - this code installs both node.js and npm (NPM is a package manager for node)
+***
+Installing Node.js- A JavaScript runtime environment. It is used to run JavaScript on a machine rather than in a browser.
+![screenshot 7](./Image/Screenshot%207.jpg)
+```
+Code:sudo apt-get install -y nodejs
+```
+this code installs both node.js and npm (NPM is a package manager for node)
+***
+Screenshot 7: 
+Code:  - 
 Screenshot 8: A new directory for the Todo list project was created, project was initialised to create the 
 new file name package.json
 code: mkdir Todo
