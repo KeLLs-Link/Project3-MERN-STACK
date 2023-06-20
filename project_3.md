@@ -44,8 +44,13 @@ Remember that Express is a framework for Node.js, therefore a lot of things deve
 code: npm install express
 code: touch index.js
 ```
-screenshot 12: server up sand and runnining. Inbound rule routed to port 5000
+***
+If everything goes well, you should see Server running on port 5000 in your terminal.
+![screenshot 12:](./Image/Screenshot%2012.jpg) 
+Server up sand and runnining. Inbound rule routed to port 5000
+```
 code: node index.js
+```
 screenshot 13: welcome to express.js
 screenshot 14: mongoose a Node.js package that makes working with mongodb easier succesfully installed in Todo directory.
 code:npm install mongoose
