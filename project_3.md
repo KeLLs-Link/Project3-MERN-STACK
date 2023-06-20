@@ -45,8 +45,9 @@ code: npm install express
 code: touch index.js
 ```
 ***
-If everything goes well, you should see Server running on port 5000 in your terminal.
-![screenshot 12:](./Image/Screenshot%2012.jpg) 
+Now it is time to start our server to see if it works. Open your terminal in the same directory as your index.js file and type:
+.If everything goes well, you should see Server running on port 5000 in your terminal.
+![screenshot 12:](./Image/Screenshot%2012.png) 
 Server up sand and runnining. Inbound rule routed to port 5000
 ```
 code: node index.js
