@@ -90,11 +90,17 @@ Database connected succesfully
 ```
 code: npx create-react-app client
 ```
+***
+In this project, we will use Postman to test our API. You should test all the API endpoints and make sure they are working. For the endpoints that require body, you should send JSON back with the necessary fields since it’s what we setup in our code. Now open your Postman, create a POST request to the API. This request sends a new task to our To-Do list so the application could store it in the database.
 
-Screnshot 18: POST request
-Screenshot 19: GET request
-FRONTEND CREATION (React)
-code: npx create-react-app client
+POST request
+
+![Screnshot 18:](./Image/Screenshot%2018.png)
+
+GET request
+![Screenshot 19:](./Image/Screenshot%2019.png) 
+
+***
 installing concurrently
 code: npm install concurrently --save-dev
 installing nodemon
